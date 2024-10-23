@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://outestail.github.io/outestail.outestail
+Sitemap: https://outestail.github.io/app/outestail.outestail
+Sitemap: https://outestail.github.io/assets/outestail.outestail
+Sitemap: https://outestail.github.io/css/outestail.outestail
+Sitemap: https://outestail.github.io/includes/outestail.outestail
+Sitemap: https://outestail.github.io/item/outestail.outestail
+Sitemap: https://outestail.github.io/src/outestail.outestail
